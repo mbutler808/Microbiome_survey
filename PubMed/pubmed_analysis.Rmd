@@ -1,0 +1,93 @@
+---
+title: "PubMed Microbiome Analysis"
+author: "Marguerite"
+date: "2020-06-11"
+output: html_document
+---
+
+I searched PubMed for Microbiome studies that included the term "microbiome" with "16s", "18s", or "ITS", "ITS1", or "ITS2" on June 11, 2020.
+
+
+Plot of microbiome papers with any of these markers over time.
+```{r}
+require(xtable)
+dat <- read.csv("PubMed_Timeline_Results_by_Year-all.csv", skip=1, header=T)
+o <- order(dat$Year)
+dat <- dat[o,]
+
+with(data=dat, barplot(Count, Year))
+with(data=dat, plot(Year, Count, type="b"))
+total = sum(dat$Count)
+datall <- dat
+```
+Total studies = `r total`
+
+Now overlay other markers
+
+```{r}
+dat <- read.csv("PubMed_Timeline_Results_by_Year-18s.csv", skip=1, header=T)
+o <- order(dat$Year)
+dat <- dat[order(dat$Year),]
+dat18s <- dat
+names(dat18s)[2] <- "Count.L18s"
+
+dat <- read.csv("PubMed_Timeline_Results_by_Year-ITS.csv", skip=1, header=T)
+o <- order(dat$Year)
+dat <- dat[order(dat$Year),]
+datITS <- dat
+names(datITS)[2] <- "Count.LITS"
+
+dat <- merge(merge(datall, dat18s, all=T), datITS, all=T)
+dat[is.na(dat)] <- 0
+names(dat) <- c("Year", "All", "L18s", "LITS")
+dat$L18sITS <- dat$L18s + dat$LITS
+
+```
+
+```{r}
+with(data=dat, plot(Year, All, type="b", pch=19, col="red"))
+with(data=dat, points(Year, L18s, type="b", pch=19, col="blue"))
+with(data=dat, points(Year, L18sITS, type="b", pch=19, col="black"))
+```
+
+Use polygon to shade under plots and transparency
+We need a function `makeTransparent()` to make transparent colors
+
+```{r}
+makeTransparent<-function(someColor, alpha=1)
+{
+  newColor<-col2rgb(someColor)
+  apply(newColor, 2, function(curcoldata){rgb(red=curcoldata[1], blue=curcoldata[2],
+    green=curcoldata[3],alpha=alpha*255, maxColorValue=255)})
+}
+
+with(data=dat, plot(Year, All, type="n"))
+with(data=dat, polygon(x=c(Year, rev(Year)), y=c(All, rev(L18sITS)), col=makeTransparent("red",.3), border=NA))
+with(data=dat, polygon(x=c(Year, rev(Year)), y=c(L18s, rev(L18sITS)), col=makeTransparent("black",.3), border=NA))
+with(data=dat, polygon(x=c(Year, Year[1]), y=c(L18s, 0), col=makeTransparent("blue",.3), border=NA))
+
+with(data=dat, lines(Year, All,  lwd=5, pch=19,  col="red"))
+with(data=dat, lines(Year, L18s,  lwd=5, pch=19, col="blue"))
+with(data=dat, lines(Year, L18sITS,  lwd=5, pch=19, col="black"))
+```
+
+If we cut it off at 2019 (incomplete reporting for 2020, so itʻs kind of misleading)  
+
+```{r}
+dat <- dat[dat$Year < 2020,]
+with(data=dat, plot(Year, All, type="n"))
+with(data=dat, polygon(x=c(Year, rev(Year)), y=c(All, rev(L18sITS)), col=makeTransparent("red",.3), border=NA))
+with(data=dat, polygon(x=c(Year, rev(Year)), y=c(L18s, rev(L18sITS)), col=makeTransparent("black",.3), border=NA))
+with(data=dat, polygon(x=c(Year, Year[1]), y=c(L18s, 0), col=makeTransparent("blue",.3), border=NA))
+
+with(data=dat, lines(Year, L18s,  lwd=5, pch=19, col="blue"))
+with(data=dat, lines(Year, L18sITS,  lwd=5, pch=19, col="black"))
+with(data=dat, lines(Year, All,  lwd=5, pch=19,  col="red"))
+legend(x=1995, y=3000, legend=c("All = 16s or 18s or ITS", "ITS = Fungi", "18s = Other Eukaryotes"), fill=c("red", "black", "blue"), text.col=c("red", "black", "blue"), text.font=2, bty="n")
+```
+
+Here is the data table
+```{r kable}
+require(knitr)
+kable(dat, digits=1, col.names=c("Year", "All", "18s", "ITS", "18s+ITS"))
+```

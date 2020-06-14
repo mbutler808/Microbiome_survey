@@ -1,0 +1,640 @@
+1. Gut. 2017 Jun;66(6):1039-1048. doi: 10.1136/gutjnl-2015-310746. Epub 2016 Feb 3.
+
+Fungal microbiota dysbiosis in IBD.
+
+Sokol H(1)(2)(3)(4), Leducq V(1)(4), Aschard H(5), Pham HP(6), Jegou S(1)(4), 
+Landman C(3)(4), Cohen D(1)(2), Liguori G(7), Bourrier A(3)(4), Nion-Larmurier 
+I(3)(4), Cosnes J(3)(4), Seksik P(3)(4), Langella P(2)(4), Skurnik D(8)(9), 
+Richard ML(2)(4), Beaugerie L(3)(4).
+
+Author information:
+(1)Sorbonne University-UPMC Univ Paris 06, INSERM ERL 1157, Avenir Team Gut 
+Microbiota and Immunity, UMR 7203, Saint-Antoine Hospital, AP-HP, UPMC Univ 
+Paris 06, Paris, France.
+(2)Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay, 
+Jouy-en-Josas, France.
+(3)Department of Gastroenterology, Saint Antoine Hospital, Paris, France.
+(4)Inflammation-Immunopathology-Biotherapy Department (DHU i2B), Paris, France.
+(5)Department of Epidemiology, Harvard School of Public Health, Boston, 
+Massachusetts, USA.
+(6)ILTOO Pharma, iPEPS ICM, Hôpital Pitié Salpêtrière, Paris, France.
+(7)Department of Medical and Surgical Sciences, University of Bologna, Bologna, 
+Italy.
+(8)Division of Infectious Diseases, Department of Medicine, Brigham and Women's 
+Hospital, Harvard Medical School, Boston, Massachusetts, USA.
+(9)Massachusetts Technology and Analytics, Brookline, Massachusetts, USA.
+
+OBJECTIVE: The bacterial intestinal microbiota plays major roles in human 
+physiology and IBDs. Although some data suggest a role of the fungal microbiota 
+in IBD pathogenesis, the available data are scarce. The aim of our study was to 
+characterise the faecal fungal microbiota in patients with IBD.
+DESIGN: Bacterial and fungal composition of the faecal microbiota of 235 
+patients with IBD and 38 healthy subjects (HS) was determined using 16S and ITS2 
+sequencing, respectively. The obtained sequences were analysed using the Qiime 
+pipeline to assess composition and diversity. Bacterial and fungal taxa 
+associated with clinical parameters were identified using multivariate 
+association with linear models. Correlation between bacterial and fungal 
+microbiota was investigated using Spearman's test and distance correlation.
+RESULTS: We observed that fungal microbiota is skewed in IBD, with an increased 
+Basidiomycota/Ascomycota ratio, a decreased proportion of Saccharomyces 
+cerevisiae and an increased proportion of Candida albicans compared with HS. We 
+also identified disease-specific alterations in diversity, indicating that a 
+Crohn's disease-specific gut environment may favour fungi at the expense of 
+bacteria. The concomitant analysis of bacterial and fungal microbiota showed a 
+dense and homogenous correlation network in HS but a dramatically unbalanced 
+network in IBD, suggesting the existence of disease-specific inter-kingdom 
+alterations.
+CONCLUSIONS: Besides bacterial dysbiosis, our study identifies a distinct fungal 
+microbiota dysbiosis in IBD characterised by alterations in biodiversity and 
+composition. Moreover, we unravel here disease-specific inter-kingdom network 
+alterations in IBD, suggesting that, beyond bacteria, fungi might also play a 
+role in IBD pathogenesis.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/.
+
+DOI: 10.1136/gutjnl-2015-310746
+PMCID: PMC5532459
+PMID: 26843508 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+2. Microbiome. 2017 Nov 25;5(1):153. doi: 10.1186/s40168-017-0373-4.
+
+The gut mycobiome of the Human Microbiome Project healthy cohort.
+
+Nash AK(1), Auchtung TA(1), Wong MC(1), Smith DP(1), Gesell JR(1), Ross MC(1), 
+Stewart CJ(1), Metcalf GA(2), Muzny DM(2), Gibbs RA(2), Ajami NJ(1), Petrosino 
+JF(3).
+
+Author information:
+(1)Alkek Center for Metagenomics and Microbiome Research, Department of 
+Molecular Virology and Microbiology, Baylor College of Medicine, Houston, TX, 
+USA.
+(2)Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA.
+(3)Alkek Center for Metagenomics and Microbiome Research, Department of 
+Molecular Virology and Microbiology, Baylor College of Medicine, Houston, TX, 
+USA. jpetrosi@bcm.edu.
+
+BACKGROUND: Most studies describing the human gut microbiome in healthy and 
+diseased states have emphasized the bacterial component, but the fungal 
+microbiome (i.e., the mycobiome) is beginning to gain recognition as a 
+fundamental part of our microbiome. To date, human gut mycobiome studies have 
+primarily been disease centric or in small cohorts of healthy individuals. To 
+contribute to existing knowledge of the human mycobiome, we investigated the gut 
+mycobiome of the Human Microbiome Project (HMP) cohort by sequencing the 
+Internal Transcribed Spacer 2 (ITS2) region as well as the 18S rRNA gene.
+RESULTS: Three hundred seventeen HMP stool samples were analyzed by ITS2 
+sequencing. Fecal fungal diversity was significantly lower in comparison to 
+bacterial diversity. Yeast dominated the samples, comprising eight of the top 15 
+most abundant genera. Specifically, fungal communities were characterized by a 
+high prevalence of Saccharomyces, Malassezia, and Candida, with S. cerevisiae, 
+M. restricta, and C. albicans operational taxonomic units (OTUs) present in 
+96.8, 88.3, and 80.8% of samples, respectively. There was a high degree of 
+inter- and intra-volunteer variability in fungal communities. However, S. 
+cerevisiae, M. restricta, and C. albicans OTUs were found in 92.2, 78.3, and 
+63.6% of volunteers, respectively, in all samples donated over an approximately 
+1-year period. Metagenomic and 18S rRNA gene sequencing data agreed with ITS2 
+results; however, ITS2 sequencing provided greater resolution of the relatively 
+low abundance mycobiome constituents.
+CONCLUSIONS: Compared to bacterial communities, the human gut mycobiome is low 
+in diversity and dominated by yeast including Saccharomyces, Malassezia, and 
+Candida. Both inter- and intra-volunteer variability in the HMP cohort were 
+high, revealing that unlike bacterial communities, an individual's mycobiome is 
+no more similar to itself over time than to another person's. Nonetheless, 
+several fungal species persisted across a majority of samples, evidence that a 
+core gut mycobiome may exist. ITS2 sequencing data provided greater resolution 
+of the mycobiome membership compared to metagenomic and 18S rRNA gene sequencing 
+data, suggesting that it is a more sensitive method for studying the mycobiome 
+of stool samples.
+
+DOI: 10.1186/s40168-017-0373-4
+PMCID: PMC5702186
+PMID: 29178920 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+Institutional Review Board (IRB) at Baylor College of Medicine reviewed and 
+approved the protocols, informed consent, and other study documents (IRB 
+protocols H-22895 (IRB no. 00001021) and H-22035 (IRB no. 00002649)) [16]. 
+CONSENT FOR PUBLICATION: Not applicable COMPETING INTERESTS: The authors declare 
+that they have no competing interests. PUBLISHER’S NOTE: Springer Nature remains 
+neutral with regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+3. Microbiome. 2017 Aug 24;5(1):107. doi: 10.1186/s40168-017-0319-x.
+
+Early gut mycobiota and mother-offspring transfer.
+
+Schei K(1), Avershina E(2), Øien T(3), Rudi K(2), Follestad T(3), Salamati S(4), 
+Ødegård RA(5)(4).
+
+Author information:
+(1)Department of Laboratory Medicine, Children's and Women's Health, Faculty of 
+Medicine and Health Sciences, NTNU - Norwegian University of Science and 
+Technology, Postboks 8905, 7491, Trondheim, Norway. kasperschei@gmail.com.
+(2)Department of Chemistry, Biotechnology and Food Science, NMBU - Norway 
+University of Life Sciences, Ås, Norway.
+(3)Department of Public Health and Nursing, Faculty of Medicine and Health 
+Science, NTNU - Norwegian University of Science and Technology, Trondheim, 
+Norway.
+(4)ObeCe - Regional Centre for Obesity Research and Innovation, St. Olav's 
+University Hospital, Trondheim, Norway.
+(5)Department of Laboratory Medicine, Children's and Women's Health, Faculty of 
+Medicine and Health Sciences, NTNU - Norwegian University of Science and 
+Technology, Postboks 8905, 7491, Trondheim, Norway.
+
+BACKGROUND: The fungi in the gastrointestinal tract, the gut mycobiota, are now 
+recognised as a significant part of the gut microbiota, and they may be 
+important to human health. In contrast to the adult gut mycobiota, the 
+establishment of the early gut mycobiota has never been described, and there is 
+little knowledge about the fungal transfer from mother to offspring.
+METHODS: In a prospective cohort, we followed 298 pairs of healthy mothers and 
+offspring from 36 weeks of gestation until 2 years of age (1516 samples) and 
+explored the gut mycobiota in maternal and offspring samples. Half of the 
+pregnant mothers were randomised into drinking probiotic milk during and after 
+pregnancy. The probiotic bacteria included Lactobacillus rhamnosus GG (LGG), 
+Bifidobacterium animalis subsp. lactis Bb-12 and Lactobacillus acidophilus La-5. 
+We quantified the fungal abundance of all the samples using qPCR of the fungal 
+internal transcribed spacer (ITS)1 segment, and we sequenced the 18S rRNA gene 
+ITS1 region of 90 high-quantity samples using the MiSeq platform (Illumina).
+RESULTS: The gut mycobiota was detected in most of the mothers and the majority 
+of the offspring. The offspring showed increased odds of having detectable 
+faecal fungal DNA if the mother had detectable fungal DNA as well (OR = 1.54, 
+p = 0.04). The fungal alpha diversity in the offspring gut increased from its 
+lowest at 10 days after birth, which was the earliest sampling point. The fungal 
+diversity and fungal species showed a succession towards the maternal mycobiota 
+as the child aged, with Debaryomyces hansenii being the most abundant species 
+during breast-feeding and Saccharomyces cerevisiae as the most abundant after 
+weaning. Probiotic consumption increased the gut mycobiota abundance in pregnant 
+mothers (p = 0.01).
+CONCLUSION: This study provides the first insight into the early fungal 
+establishment and the succession of fungal species in the gut mycobiota. The 
+results support the idea that the fungal host phenotype is transferred from 
+mother to offspring.
+TRIAL REGISTRATION: Clinicaltrials.gov NCT00159523.
+
+DOI: 10.1186/s40168-017-0319-x
+PMCID: PMC5571498
+PMID: 28837002 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: This 
+study was approved by the Regional Committee for Medical and Health Research 
+Ethics for Central Norway (ref: 120-2000 and 2014/1796/REK midt) and the 
+Norwegian Data Inspectorate (ref: 2003/953-3 KBE/-). At least one of each 
+child’s parent was informed and signed an informed consent form. CONSENT FOR 
+PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare that they 
+have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral 
+with regard to jurisdictional claims in published maps and institutional 
+affiliations.
+
+
+4. mSphere. 2018 Mar 28;3(2):e00092-18. doi: 10.1128/mSphere.00092-18. eCollection 
+2018 Mar-Apr.
+
+Investigating Colonization of the Healthy Adult Gastrointestinal Tract by Fungi.
+
+Auchtung TA(1), Fofanova TY(1), Stewart CJ(1), Nash AK(1), Wong MC(1), Gesell 
+JR(1), Auchtung JM(1), Ajami NJ(1), Petrosino JF(1).
+
+Author information:
+(1)Alkek Center for Metagenomics and Microbiome Research, Department of 
+Molecular Virology and Microbiology, Baylor College of Medicine, Houston, Texas, 
+USA.
+
+A wide diversity of fungi have been detected in the human gastrointestinal (GI) 
+tract with the potential to provide or influence important functions. However, 
+many of the fungi most commonly detected in stool samples are also present in 
+food or the oral cavity. Therefore, to recognize which gut fungi are likely to 
+have a sustained influence on human health, there is a need to separate 
+transient members of the GI tract from true colonizers. To identify colonizing 
+fungi, the eukaryotic rRNA operon's second internal transcribed spacer (ITS2) 
+was sequenced from the stool, saliva, and food of healthy adults following 
+consumption of different controlled diets. Unlike most bacterial 16S rRNA genes, 
+the only fungal ITS2 operational taxonomic units (OTUs) detected in stool DNA 
+across multiple diets were also present in saliva and/or food. Additional 
+analyses, including culture-based approaches and sequencing of the 18S rRNA 
+gene, ITS2 cDNA, and DNA extracted using alternative methods, failed to detect 
+additional fungi. Two abundant fungi, Saccharomyces cerevisiae and Candida 
+albicans, were examined further in healthy volunteers. Saccharomyces became 
+undetectable in stool when a S. cerevisiae-free diet was consumed, and the 
+levels of C. albicans in stool were dramatically reduced by more frequent 
+cleaning of teeth. Extremely low fungal abundance, the inability of fungi to 
+grow under conditions mimicking the distal gut, and evidence from analysis of 
+other public datasets further support the hypothesis that fungi do not routinely 
+colonize the GI tracts of healthy adults. IMPORTANCE We sought to identify the 
+fungi that colonize healthy GI tracts and that have a sustained influence on the 
+diverse functions of the gut microbiome. Instead, we found that all fungi in the 
+stool of healthy volunteers could be explained by their presence in oral and 
+dietary sources and that our results, together with those from other analyses, 
+support the model that there is little or no gastrointestinal colonization by 
+fungi. This may be due to Westernization, primate evolution, fungal ecology, 
+and/or the strong defenses of a healthy immune system. Importantly, fungal 
+colonization of the GI tract may often be indicative of disease. As fungi can 
+cause serious infections in immunocompromised individuals and are found at 
+increased abundance in multiple disorders of the GI tract, understanding normal 
+fungal colonization is essential for proper treatment and prevention of fungal 
+pathogenesis.
+
+DOI: 10.1128/mSphere.00092-18
+PMCID: PMC5874442
+PMID: 29600282 [Indexed for MEDLINE]
+
+
+5. Eur Respir J. 2018 Jul 27;52(1):1800766. doi: 10.1183/13993003.00766-2018. Print 
+2018 Jul.
+
+Immunological corollary of the pulmonary mycobiome in bronchiectasis: the CAMEB 
+study.
+
+Mac Aogáin M(1)(2), Chandrasekaran R(1)(2), Lim AYH(3), Low TB(4), Tan GL(5), 
+Hassan T(6), Ong TH(5), Hui Qi Ng A(7), Bertrand D(7), Koh JY(7), Pang SL(8)(9), 
+Lee ZY(8), Gwee XW(8), Martinus C(8), Sio YY(8), Matta SA(8), Chew FT(8), Keir 
+HR(10), Connolly JE(11), Abisheganaden JA(3), Koh MS(5), Nagarajan N(7), 
+Chalmers JD(10), Chotirmall SH(1).
+
+Author information:
+(1)Lee Kong Chian School of Medicine, Nanyang Technological University, 
+Singapore.
+(2)These two authors contributed equally to this work.
+(3)Dept of Respiratory and Critical Care Medicine, Tan Tock Seng Hospital, 
+Singapore.
+(4)Dept of Respiratory and Critical Care Medicine, Changi General Hospital, 
+Singapore.
+(5)Dept of Respiratory and Critical Care Medicine, Singapore General Hospital, 
+Singapore.
+(6)Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia.
+(7)Genome Institute of Singapore, A*STAR, Singapore.
+(8)Dept of Biological Sciences, National University of Singapore, Singapore.
+(9)Institute of Systems Biology, Universiti Kebangsaan Malaysia, Bangi, 
+Malaysia.
+(10)Ninewells Hospital and Medical School, University of Dundee, Dundee, UK.
+(11)Institute of Molecular and Cell Biology, A*STAR, Singapore.
+
+Understanding the composition and clinical importance of the fungal mycobiome 
+was recently identified as a key topic in a "research priorities" consensus 
+statement for bronchiectasis.Patients were recruited as part of the CAMEB study: 
+an international multicentre cross-sectional Cohort of Asian and Matched 
+European Bronchiectasis patients. The mycobiome was determined in 238 patients 
+by targeted amplicon shotgun sequencing of the 18S-28S rRNA internally 
+transcribed spacer regions ITS1 and ITS2. Specific quantitative PCR for 
+detection of and conidial quantification for a range of airway Aspergillus 
+species was performed. Sputum galactomannan, Aspergillus specific IgE, IgG and 
+TARC (thymus and activation regulated chemokine) levels were measured 
+systemically and associated to clinical outcomes.The bronchiectasis mycobiome is 
+distinct and characterised by specific fungal genera, including Aspergillus, 
+Cryptococcus and ClavisporaAspergillus fumigatus (in Singapore/Kuala Lumpur) and 
+Aspergillus terreus (in Dundee) dominated profiles, the latter associating with 
+exacerbations. High frequencies of Aspergillus-associated disease including 
+sensitisation and allergic bronchopulmonary aspergillosis were detected. Each 
+revealed distinct mycobiome profiles, and associated with more severe disease, 
+poorer pulmonary function and increased exacerbations.The pulmonary mycobiome is 
+of clinical relevance in bronchiectasis. Screening for Aspergillus-associated 
+disease should be considered even in apparently stable patients.
+
+Copyright ©ERS 2018.
+
+DOI: 10.1183/13993003.00766-2018
+PMCID: PMC6092680
+PMID: 29880655 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: F.T. Chew reports personal 
+fees from Sime Darby Technology Center, Olam International and First Resources 
+Ltd, outside the submitted work. J.D. Chalmers reports grants from AstraZeneca, 
+grants and personal fees from GlaxoSmithKline, Boehringer Ingelheim, Pfizer, 
+Bayer Healthcare and Grifols, and personal fees from Napp, outside the submitted 
+work.
+
+
+6. Front Microbiol. 2018 Sep 19;9:2208. doi: 10.3389/fmicb.2018.02208. eCollection 
+2018.
+
+Characterizing the Human Mycobiota: A Comparison of Small Subunit rRNA, ITS1, 
+ITS2, and Large Subunit rRNA Genomic Targets.
+
+Hoggard M(1), Vesty A(2)(3), Wong G(1), Montgomery JM(4), Fourie C(4), Douglas 
+RG(2), Biswas K(2), Taylor MW(1)(5).
+
+Author information:
+(1)School of Biological Sciences, The University of Auckland, Auckland, New 
+Zealand.
+(2)School of Medicine, The University of Auckland, Auckland, New Zealand.
+(3)Microbiology Laboratory, LabPLUS, Auckland City Hospital, Auckland, New 
+Zealand.
+(4)Department of Physiology, Centre for Brain Research, The University of 
+Auckland, Auckland, New Zealand.
+(5)Maurice Wilkins Centre for Molecular Biodiscovery, The University of 
+Auckland, Auckland, New Zealand.
+
+Interest in the human microbiome has increased dramatically in the last decade. 
+However, much of this research has focused on bacteria, while the composition 
+and roles of their fungal counterparts remain less understood. Furthermore, a 
+variety of methodological approaches have been applied, and the comparability 
+between studies is unclear. This study compared four primer pairs targeting the 
+small subunit (SSU) rRNA (18S), ITS1, ITS2, and large subunit (LSU) rRNA (26S) 
+genomic regions for their ability to accurately characterize fungal communities 
+typical of the human mycobiota. All four target regions of 21 individual fungal 
+mock community taxa were capable of being amplified adequately and sequenced. 
+Mixed mock community analyses revealed marked variability in the ability of each 
+primer pair to accurately characterize a complex community. ITS target regions 
+outperformed LSU and SSU. Of the ITS regions, ITS1 failed to generate sequences 
+for Yarrowia lipolytica and all three Malassezia species when in a mixed 
+community. These findings were further supported in studies of human sinonasal 
+and mouse fecal samples. Based on these analyses, previous studies using ITS1, 
+SSU, or LSU markers may omit key taxa that are identified by the ITS2 marker. Of 
+methods commonly used in human mycobiota studies to date, we recommend selection 
+of the ITS2 marker. Further investigation of more recently developed fungal 
+primer options will be essential to ultimately determine the optimal 
+methodological approach by which future human mycobiota studies ought to be 
+standardized.
+
+DOI: 10.3389/fmicb.2018.02208
+PMCID: PMC6157398
+PMID: 30283425
+
+
+7. Gut Microbes. 2018 Mar 4;9(2):131-142. doi: 10.1080/19490976.2017.1379637. Epub 
+2017 Oct 12.
+
+Mucosa-associated microbiota dysbiosis in colitis associated cancer.
+
+Richard ML(1)(2), Liguori G(3), Lamas B(2)(4), Brandi G(5), da Costa G(1)(2), 
+Hoffmann TW(1)(2), Pierluigi Di Simone M(3), Calabrese C(3), Poggioli G(3), 
+Langella P(1)(2), Campieri M(3), Sokol H(1)(2)(4)(6).
+
+Author information:
+(1)a Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay , Jouy en 
+Josas , France.
+(2)b Inflammation-Immunopathology-Biotherapy Département Hospitalo-Universitaire 
+(DHU i2B) , Paris , France.
+(3)c Department of Medical and Surgical Sciences , University of Bologna , 
+Bologna , Italy.
+(4)d Equipe Avenir Gut Microbiota and Immunity, ERL INSERM U 1157/UMR7203, 
+Faculté de Médecine Saint-Antoine, Université Pierre et Marie Curie (UPMC) , 
+Paris , France.
+(5)e Department of Experimental , Diagnostic and Specialty Medicine, University 
+of Bologna , Bologna , Italy.
+(6)f Service de Gastroentérologie et Nutrition, Hôpital Saint-Antoine, 
+Assistance Publique Hôpitaux de Paris et Université Paris 6 , Paris , France.
+
+Gut microbiota dysbiosis has been associated with inflammatory bowel diseases 
+(IBD). In colorectal cancer, the gut microbiota has also been recognized as 
+potentially involved in aggravating or favoring the tumor development. However, 
+very little is known on the structure and role of the microbiota in colitis 
+associated cancer (CAC), an important complication of IBD in human. Here we 
+analyzed the bacterial and fungal composition of the mucosa associated 
+microbiota of patients suffering CAC, sporadic cancer (SC) and of healthy 
+subjects (HS) by barcode sequences analysis on the following cohort: 7 CAC 
+patients, 10 SC patients and 10 HS using 16S (MiSeq) and ITS2 (pyrosequencing) 
+sequencing, for bacteria and fungi respectively. Mucosa-associated bacterial 
+microbiota in CAC was significantly different from the ones in SC or in HS, 
+while the fungal showed no differences. Comparison between mucosa-associated 
+microbiota on the tumor site or in normal mucosa near the tumor showed very 
+similar patterns. The global mucosa-associated bacterial microbiota in cancer 
+patients was characterized by a restriction in biodiversity but no change for 
+the fungal community. Compared to SC, CAC was characterized by an increase of 
+Enterobacteriacae family and Sphingomonas genus and a decrease of Fusobacterium 
+and Ruminococcus genus. Our study confirms the alteration of the 
+mucosa-associated bacterial microbiota in IBD and SC. Although the cohort is 
+limited in number, this is the first evidence of the existence of an altered 
+bacterial microbiota in CAC clearly different from the one in SC patients.
+
+DOI: 10.1080/19490976.2017.1379637
+PMCID: PMC5989788
+PMID: 28914591 [Indexed for MEDLINE]
+
+
+8. mBio. 2019 Oct 15;10(5):e02171-19. doi: 10.1128/mBio.02171-19.
+
+Antibiotics and Host-Tailored Probiotics Similarly Modulate Effects on the 
+Developing Avian Microbiome, Mycobiome, and Host Gene Expression.
+
+Ward TL(1)(2), Weber BP(1), Mendoza KM(1), Danzeisen JL(1), Llop K(1), Lang 
+K(1), Clayton JB(1), Grace E(1), Brannon J(3), Radovic I(3), Beauclaire M(2), 
+Heisel TJ(4), Knights D(2), Cardona C(1)(5), Kogut M(6), Johnson C(7), Noll 
+SL(3), Arsenault R(7), Reed KM(1), Johnson TJ(8)(5).
+
+Author information:
+(1)Department of Veterinary and Biomedical Sciences, University of Minnesota, 
+Saint Paul, Minnesota, USA.
+(2)Department of Computer Science and Engineering, University of Minnesota, 
+Minneapolis, Minnesota, USA.
+(3)Department of Animal Science, University of Minnesota, Saint Paul, Minnesota, 
+USA.
+(4)Department of Pediatrics, University of Minnesota, Minneapolis, Minnesota, 
+USA.
+(5)Mid-Central Research and Outreach Center, University of Minnesota, Willmar, 
+Minnesota, USA.
+(6)Agricultural Research Service, United States Department of Agriculture, 
+College Station, Texas, USA.
+(7)Department of Animal and Food Sciences, University of Delaware, Newark, 
+Delaware, USA.
+(8)Department of Veterinary and Biomedical Sciences, University of Minnesota, 
+Saint Paul, Minnesota, USA tjj@umn.edu.
+
+The microbiome is important to all animals, including poultry, playing a 
+critical role in health and performance. Low-dose antibiotics have historically 
+been used to modulate food production animals and their microbiome. Identifying 
+alternatives to antibiotics conferring similar modulatory properties has been 
+elusive. The purpose of this study was to determine if a host-tailored probiotic 
+could recapitulate effects of a low-dose antibiotic on host response and the 
+developing microbiome. Over 13 days of life, turkey poults were supplemented 
+continuously with a low-dose antibiotic or oral supplementation of a prebiotic 
+with or without two different probiotics (8 cage units, n = 80 per group). 
+Gastrointestinal bacterial and fungal communities of poults were characterized 
+by 16S rRNA gene and ITS2 amplicon sequencing. Localized and systemic host gene 
+expression was assessed using transcriptome sequencing (RNA-Seq), kinase 
+activity was assessed by avian-specific kinome peptide arrays, and performance 
+parameters were assessed. We found that development of the early-life microbiome 
+of turkey poults was tightly ordered in a tissue- and time-specific manner. 
+Low-dose antibiotic and turkey-tailored probiotic supplementation, but not 
+nontailored probiotic supplementation, elicited similar shifts in overall 
+microbiome composition during development compared to controls. 
+Treatment-induced bacterial changes were accompanied by parallel shifts in the 
+fungal community and host gene expression and enhanced performance metrics. 
+These results were validated in pen trials that identified further additive 
+effects of the turkey-tailored probiotic combined with different prebiotics. 
+Alternative approaches to low-dose antibiotic use in poultry are feasible and 
+can be optimized utilizing the indigenous poultry microbiome. Similar approaches 
+may also be beneficial for humans.IMPORTANCE Alternative approaches are greatly 
+needed to reduce the need for antibiotic use in food animal production. This 
+study utilized a pipeline for the development of a host-tailored probiotic to 
+enhance performance in commercial turkeys and modulate their microbiota, similar 
+to the effects of low-dose antibiotic administration. We determined that a 
+host-tailored probiotic, developed in the context of the commercial turkey gut 
+microbiome, was more effective at modulating these parameters than a nontailored 
+probiotic cocktail. Furthermore, the host-tailored probiotic mimicked many of 
+the effects of a low-dose antibiotic growth promoter. Surprisingly, the effects 
+of the antibiotic growth promoter and host-tailored probiotic were observed 
+across kingdoms, illustrating the coordinated interkingdom effects of these 
+approaches. This work suggests that tailored approaches to probiotic development 
+hold promise for modulating the avian host and its microbiota.
+
+Copyright © 2019 Ward et al.
+
+DOI: 10.1128/mBio.02171-19
+PMCID: PMC6794479
+PMID: 31615957 [Indexed for MEDLINE]
+
+
+9. PLoS One. 2018 Aug 3;13(8):e0201174. doi: 10.1371/journal.pone.0201174. 
+eCollection 2018.
+
+Combined bacterial and fungal intestinal microbiota analyses: Impact of storage 
+conditions and DNA extraction protocols.
+
+Angebault C(1)(2)(3)(4), Ghozlane A(5), Volant S(5), Botterel F(3)(4), d'Enfert 
+C(6), Bougnoux ME(1)(2)(6).
+
+Author information:
+(1)Unité de Parasitologie-Mycologie, Service de Microbiologie clinique, Hôpital 
+Necker-Enfants-Malades, Assistance Publique des Hôpitaux de Paris (APHP), Paris, 
+France.
+(2)Université Paris Descartes, Sorbonne Paris-Cité, Paris, France.
+(3)Unité de Parasitologie-Mycologie, Département de Virologie, 
+Bactériologie-Hygiène, Mycologie-Parasitologie, Unité transversale du traitement 
+des infections (VBHMP-UT2I), DHU-VIC, CHU Henri Mondor, Assistance Publique des 
+Hôpitaux de Paris (APHP), Créteil, France.
+(4)EA Dynamyc 7380 UPEC, ENVA, Faculté de Médecine de Créteil, Créteil.
+(5)Institut Pasteur, Bioinformatics and Biostatistics Hub-C3BI-USR 3756 IP CNRS, 
+Paris, France.
+(6)Institut Pasteur, INRA, Unité Biologie et Pathogénicité Fongiques, 
+Département Mycologie, Paris, France.
+
+BACKGROUND: The human intestinal microbiota contains a vast community of 
+microorganisms increasingly studied using high-throughput DNA sequencing. 
+Standardized protocols for storage and DNA extraction from fecal samples have 
+been established mostly for bacterial microbiota analysis. Here, we investigated 
+the impact of storage and DNA extraction on bacterial and fungal community 
+structures detected concomitantly.
+METHODS: Fecal samples from healthy adults were stored at -80°C as such or 
+diluted in RNAlater® and subjected to 2 extraction protocols with mechanical 
+lysis: the Powersoil® MoBio kit or the International Human Microbiota Standard 
+(IHMS) Protocol Q. Libraries of the 12 samples targeting the V3-V4 16S and the 
+ITS1 regions were prepared using Metabiote® (Genoscreen) and sequenced on 
+GS-FLX-454. Sequencing data were analysed using SHAMAN 
+(http://shaman.pasteur.fr/). The bacterial and fungal microbiota were compared 
+in terms of diversity and relative abundance.
+RESULTS: We obtained 171869 and 199089 quality-controlled reads for 16S and ITS, 
+respectively. All 16S reads were assigned to 41 bacterial genera; only 52% of 
+ITS reads were assigned to 40 fungal genera/section. Rarefaction curves were 
+satisfactory in 3/3 and 2/3 subjects for 16S and ITS, respectively. PCoA showed 
+important inter-individual variability of intestinal microbiota largely 
+overweighing the effect of storage or extraction. Storage in RNAlater® impacted 
+(downward trend) the relative abundances of 7/41 bacterial and 6/40 fungal taxa, 
+while extraction impacted randomly 18/41 bacterial taxa and 1/40 fungal taxon.
+CONCLUSION: Our results showed that RNAlater® moderately impacts bacterial or 
+fungal community structures, while extraction significantly influences the 
+bacterial composition. For combined bacterial and fungal intestinal microbiota 
+analysis, immediate sample freezing should be preferred when feasible, but 
+storage in RNAlater® remains an option under unfavourable conditions or for 
+concomitant metatranscriptomic analysis; and extraction should rely on protocols 
+validated for bacterial analysis, such as IHMS Protocol Q, and including a 
+powerful mechanical lysis, essential for fungal extraction.
+
+DOI: 10.1371/journal.pone.0201174
+PMCID: PMC6075747
+PMID: 30074988 [Indexed for MEDLINE]
+
+Conflict of interest statement: CA received a grant from Pfizer (Prix de 
+Recherche de la Société Française de Mycologie Médicale – Pfizer 2015) for this 
+work and a travel grant from MSD. MEB has received institutional grant funding 
+from MSD and Astellas and lecture fees or travel grants from MSD, Astellas, and 
+Gilead Sciences. FB received grants from Astellas, and payment for lectures from 
+Merck. AG, SV and CE have no competing interest relevant to the submitted 
+research. There are no patents, products in development, or marketed products to 
+declare. This does not alter our adherence to PLOS ONE policies on sharing data 
+and materials.
+
+
+10. BMJ Open. 2019 Jun 11;9(6):e025129. doi: 10.1136/bmjopen-2018-025129.
+
+Natural history, dynamics, and ecology of human papillomaviruses in genital 
+infections of young women: protocol of the PAPCLEAR cohort study.
+
+Murall CL(1), Rahmoun M(1), Selinger C(1), Baldellou M(2), Bernat C(1), Bonneau 
+M(3), Boué V(1), Buisson M(4), Christophe G(2), D'Auria G(5)(6), Taroni F(2), 
+Foulongne V(7)(8), Froissart R(1), Graf C(3), Grasset S(1)(2), Groc S(1)(8), 
+Hirtz C(9), Jaussent A(10), Lajoie J(11), Lorcy F(12), Picot E(2), Picot MC(10), 
+Ravel J(13), Reynes J(14), Rousset T(12), Seddiki A(4), Teirlinck M(2), Tribout 
+V(2), Tuaillon É(7)(8), Waterboer T(15), Jacobs N(16), Bravo IG(1), Segondy 
+M(7)(8), Boulle N(7)(12), Alizon S(1).
+
+Author information:
+(1)MIVEGEC (UMR 5290 CNRS, IRD, UM), CNRS, Montpellier, France.
+(2)Center for Free Information, Screening and Diagnosis (CGIDD), Centre 
+Hospitalier Universitaire de Montpellier, Montpellier, France.
+(3)Department of Obstetrics and Gynaecology, Centre Hospitalier Universitaire de 
+Montpellier, Montpellier, France.
+(4)Department of Research and Innovation (DRI), Centre Hospitalier Universitaire 
+de Montpellier, Montpellier, France.
+(5)CIBER en Epidemiología y Salud Pública (CIBEResp), Madrid, Spain.
+(6)Sequencing and Bioinformatics Service, Fundaciónpara el Fomento de la 
+Investigación Sanitaria y Biomédica de laComunidad Valenciana (FISABIO-Salud 
+Pública), Valencia, Spain.
+(7)Pathogenesis and Control of Chronic Infections, INSERM, CHU, University of 
+Montpellier, Montpellier, France.
+(8)Department of Virology, Centre Hospitalier Universitaire de Montpellier, 
+Montpellier, France.
+(9)LBPC/PPC- IRMB, CHU de Montpellier and Université de Montpellier, 
+Montpellier, France.
+(10)Department of Medical Information (DIM), Centre Hospitalier Universitaire de 
+Montpellier, Montpellier, France.
+(11)Department of Medical microbiology, University of Manitoba, Winnipeg, 
+Manitoba, Canada.
+(12)Department of pathology and oncobiology, Centre Hospitalier Universitaire de 
+Montpellier, Montpellier, France.
+(13)Institute for Genome Sciences, University of Maryland School of Medicine, 
+Baltimore, Maryland, USA.
+(14)Department of Infectious and Tropical Diseases, Centre Hospitalier 
+Universitaire de Montpellier, Montpellier, France.
+(15)German Cancer Research Center (DKFZ), Infections and Cancer Epidemiology, 
+Heidelberg, Germany.
+(16)GIGA-Research, Cellular and molecular immunology, University of Liège, 
+Liège, Belgium.
+
+INTRODUCTION: Human papillomaviruses (HPVs) are responsible for one-third of all 
+cancers caused by infections. Most HPV studies focus on chronic infections and 
+cancers, and we know little about the early stages of the infection. Our main 
+objective is to better understand the course and natural history of cervical HPV 
+infections in healthy, unvaccinated and vaccinated, young women, by 
+characterising the dynamics of various infection-related populations (virus, 
+epithelial cells, vaginal microbiota and immune effectors). Another objective is 
+to analyse HPV diversity within hosts, and in the study population, in relation 
+to co-factors (lifestyle characteristics, vaccination status, vaginal 
+microbiota, human genetics).
+METHODS AND ANALYSIS: The PAPCLEAR study is a single center longitudinal study 
+following 150 women, aged 18-25 years, for up to 2 years. Visits occur every 2 
+or 4 months (depending on HPV status) during which several variables are 
+measured, such as behaviours (via questionnaires), vaginal pH, HPV presence and 
+viral load (via qPCR), local concentrations of cytokines (via MesoScale 
+Discovery technology) and immune cells (via flow cytometry). Additional analyses 
+are outsourced, such as titration of circulating anti-HPV antibodies, vaginal 
+microbiota sequencing (16S and ITS1 loci) and human genotyping. To increase the 
+statistical power of the epidemiological arm of the study, an additional 150 
+women are screened cross-sectionally. Finally, to maximise the resolution of the 
+time series, participants are asked to perform weekly self-samples at home. 
+Statistical analyses will involve classical tools in epidemiology, genomics and 
+virus kinetics, and will be performed or coordinated by the Centre National de 
+la Recherche Scientifique (CNRS) in Montpellier.
+ETHICS AND DISSEMINATION: This study has been approved by the Comité de 
+Protection des Personnes Sud Méditerranée I (reference number 2016-A00712-49); 
+by the Comité Consultatif sur le Traitement de l'Information en matière de 
+Recherche dans le domaine de la Santé (reference number 16.504); by the 
+Commission Nationale Informatique et Libertés (reference number 
+MMS/ABD/AR1612278, decision number DR-2016-488) and by the Agence Nationale de 
+Sécurité du Médicament et des Produits de Santé (reference 20160072000007). 
+Results will be published in preprint servers, peer-reviewed journals and 
+disseminated through conferences.
+TRIAL REGISTRATION NUMBER: NCT02946346; Pre-results.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2018-025129
+PMCID: PMC6576111
+PMID: 31189673 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
